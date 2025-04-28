@@ -1,0 +1,155 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #282c34;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.navbar-links {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  margin: 0 20px;
+}
+
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.navbar-links a:hover {
+  color: #77B256;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  position: relative;
+  padding-top: 60px; 
+}
+
+h1 {
+  font-size: 3rem;
+  animation: fadeInBounce 3s ease-out;
+  background: linear-gradient(45deg, #77B256, #F2F9EB, #3D7335, #BCD8A3);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+@keyframes fadeInBounce {
+  0% {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(10px);
+  }
+  70% {
+    transform: translateY(-5px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.description-text {
+  font-size: 1.2rem;
+  color: white;
+  margin-top: 20px;
+  animation: typing 6s steps(100) 1s forwards, blinkCaret 0.75s step-end infinite;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid white;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blinkCaret {
+  50% {
+    border-color: transparent;
+  }
+}
+
+.recycling-logo {
+  position: absolute;
+  width: 100px;
+  animation: moveAround 5s infinite linear;
+  padding-top: 1%;
+}
+
+@keyframes moveAround {
+  0% {
+    top: 20px;
+    left: 20px;
+  }
+  25% {
+    top: 20px;
+    right: 20px;
+  }
+  50% {
+    bottom: 20px;
+    right: 20px;
+  }
+  75% {
+    bottom: 20px;
+    left: 20px;
+  }
+  100% {
+    top: 20px;
+    left: 20px;
+  }
+}
+
+main {
+  padding: 20px;
+  background-color: #3F4F44;
+}
+
+section {
+  margin: 20px 0;
+}
+
+footer {
+  padding: 10px;
+  background-color: #282c34;
+  color: white;
+}
+
+h2 {
+  font-size: 3rem;
+  animation: fadeInBounce 3s ease-out;
+  background: linear-gradient(45deg, #77B256, #F2F9EB, #3D7335, #BCD8A3);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+

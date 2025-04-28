@@ -1,0 +1,122 @@
+body {
+  background-color: #121212;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+.components-container {
+  padding: 50px 20px;
+  text-align: center;
+  background: linear-gradient(135deg, #282c34, #373d3c);
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(229, 222, 222, 0.3);
+  max-width: 1000px;
+  margin: 40px auto;
+}
+
+.components-title {
+  font-size: 2.5rem;
+  background: linear-gradient(45deg, #77B256, #F2F9EB, #3D7335, #BCD8A3);
+  -webkit-background-clip: text; 
+  background-clip: text; 
+  color: transparent; 
+  margin-bottom: 15px;
+  opacity: 0;
+  transform: translateY(-20px);
+  animation: slideIn 1.5s forwards;
+}
+
+
+.components-description {
+  font-size: 1.2rem;
+  color: #e0e0e0;
+  margin-bottom: 40px;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: slideInDescription 1.5s 0.5s forwards;
+}
+
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInDescription {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.components-photos-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px 0;
+}
+
+.component-item {
+  width: 22%;
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.component-item:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.component-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.component-img:hover {
+  transform: scale(1.05);
+}
+
+.component-details {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .component-item {
+    width: 45%;
+  }
+}
+
+@media (max-width: 480px) {
+  .component-item {
+    width: 80%;
+  }
+
+  .component-img {
+    max-width: 180px;
+  }
+}
+
+.compolist {
+  color: #4c6f46;
+}
