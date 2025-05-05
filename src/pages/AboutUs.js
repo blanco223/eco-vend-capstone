@@ -25,7 +25,7 @@ const AboutUs = () => {
 
 
         <div className="photo-item">
-          <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/484592930_2171456426604643_2264460787469723952_n.jpg?stp=cp6_dst-jpg_s206x206_tt6&_nc_cat=104&ccb=1-7&_nc_sid=fe5ecc&_nc_eui2=AeEhWRgQsWZCx-js5BEG-E2TS_39lAZNE3ZL_f2UBk0TdgclbYVDBi8b--NbaiBFaFo8ebXV8SF0co-lw83rJHFX&_nc_ohc=cjVRE2soVX0Q7kNvwHd2J7g&_nc_oc=AdnyDPsinwiAqxnDjPr_xOZV3YVCUZwG6N2f7APNSsljrMlZdPOVWSdnuTEcbTOcors&_nc_zt=23&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=x4zg2jcB-7r0vah2A5iAXQ&oh=00_AfET87kcNqTKAktuq_D97I987lE56p3HI35FukIWcxRgKA&oe=6814A9D6" alt="Image 2" className="photo-img" />
+          <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-1/467741366_2081705465579740_6975305210520851779_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeF3LNKQiEYHlH1Q3VsZ0j2Ae5yGPuGXXbB7nIY-4ZddsA3OdvuS8WThlSH21hWYQfQ8zKOX9HM3OZawT9w7LoaO&_nc_ohc=Z94Z9UzdFc4Q7kNvwGb0tXk&_nc_oc=Adl-fos8fHgUf6bAtjQ75CehZhGuxYJyNR2iBSA8iNUGefvYC0suKOBKnNruExIl4bU&_nc_zt=24&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=gPzKgoKWPC_ghQzUq4O8Iw&oh=00_AfGhmIdUaPiqXFZkSX9s16E-Ps2_QRNhx-Xxx2aQ9-vnWQ&oe=681E18C1" alt="Image 2" className="photo-img" />
           <p className="photo-description">Mark Manio</p>
           <p>Email: manio11@gmail.com</p>
           <p>Birth Date: nov 11, 2003</p>
@@ -33,7 +33,7 @@ const AboutUs = () => {
 
 
         <div className="photo-item">
-          <img src="https://scontent.fcrk2-3.fna.fbcdn.net/v/t39.30808-1/435384893_1861585890980413_3120838583473350861_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeF3Z8RyOP929pcqzeWT1FXVBUwgcIM5qFkFTCBwgzmoWccid-xlHrf_A0nH66z_PcNEiDxZOkeLw9tZR0Vhy6FO&_nc_ohc=duOc70-6DkAQ7kNvwE7FR7h&_nc_oc=AdkutWCTDe6GYoeOnYgs1PIavifc3X9I6oZHa0YFtY2eB1kikBcz0w3oycpOuExXwRs&_nc_zt=24&_nc_ht=scontent.fcrk2-3.fna&_nc_gid=xiwwUHHNkW54OJcAMyKddw&oh=00_AfGjii37kG17Cu6me6DjiJ99exp5UaSm2OcjmvMyFMNdlw&oe=6814ACAF" alt="Image 3" className="photo-img" />
+          <img src="https://scontent.fcrk2-3.fna.fbcdn.net/v/t39.30808-1/435384893_1861585890980413_3120838583473350861_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeF3Z8RyOP929pcqzeWT1FXVBUwgcIM5qFkFTCBwgzmoWccid-xlHrf_A0nH66z_PcNEiDxZOkeLw9tZR0Vhy6FO&_nc_ohc=MtgOFKpBupsQ7kNvwEe795e&_nc_oc=Adnv34jpulkspGSCnOsSd6jbGpWtWZeh2RmmiNG5WrhGIultauLQKzoVQVUEKIT7tB0&_nc_zt=24&_nc_ht=scontent.fcrk2-3.fna&_nc_gid=nDTW8iFD-mUivl0Dlysw0w&oh=00_AfHPEuSw22ZlQHAgPOqe9bHZyj_GoQsHBs5sFtEfjKooFQ&oe=681E1F6F" alt="Image 3" className="photo-img" />
           <p className="photo-description">Jacob Valdez</p>
           <p>Email: valdez123@gmail.com</p>
           <p>Birth Date: sept 6, 2004</p>
@@ -41,7 +41,7 @@ const AboutUs = () => {
 
 
         <div className="photo-item">
-          <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-1/453161578_1883624212106031_2026619860567686972_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGFvraA6N4MGiw5YxY4wyKtTqOriTzxu1JOo6uJPPG7UjHa8BI67UtgJUlz20PJRYzmBmNRlfP6QLOXy-TE3T2G&_nc_ohc=HEFu0eAKA0MQ7kNvwHllPvc&_nc_oc=AdmVj1g_Qh8jos01DSsRMmRnUMAc_xYBRFcOMXjdShK2j6yE4ZRNImdv1kVCEBS2sUw&_nc_zt=24&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=gzVDVm6LPlku3m0uL5GeUg&oh=00_AfGL-RKXpO3igNNv0wjR0VK7Gdcc5vFWvv0Cuy5BOay26Q&oe=68149E32" alt="Image 4" className="photo-img" />
+          <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-1/453161578_1883624212106031_2026619860567686972_n.jpg?stp=cp0_dst-jpg_s40x40_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGFvraA6N4MGiw5YxY4wyKtTqOriTzxu1JOo6uJPPG7UjHa8BI67UtgJUlz20PJRYzmBmNRlfP6QLOXy-TE3T2G&_nc_ohc=ajWD1eBXJmUQ7kNvwFSp5U5&_nc_oc=AdnjlwQfeUigbwGWNyG678LgypIH6ZVFvDwSFfnR70bCj1-8nT7anz04Tb1NZ4FCoB8&_nc_zt=24&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=NPsKAM53Fl4MGXPemSzrew&oh=00_AfFhmtfYOaCxAAYWUivM_5GJxBs--mngjoYPnBFY9FTa7Q&oe=681E10F2" alt="Image 4" className="photo-img" />
           <p className="photo-description">Vince</p>
           <p>vince33@gmail.com</p>
           <p>Birth Date: jan 3, 2002</p>
