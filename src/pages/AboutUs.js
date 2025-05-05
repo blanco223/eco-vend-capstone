@@ -25,7 +25,7 @@ const AboutUs = () => {
 
 
         <div className="photo-item">
-          <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-1/467741366_2081705465579740_6975305210520851779_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeF3LNKQiEYHlH1Q3VsZ0j2Ae5yGPuGXXbB7nIY-4ZddsA3OdvuS8WThlSH21hWYQfQ8zKOX9HM3OZawT9w7LoaO&_nc_ohc=Z94Z9UzdFc4Q7kNvwGb0tXk&_nc_oc=Adl-fos8fHgUf6bAtjQ75CehZhGuxYJyNR2iBSA8iNUGefvYC0suKOBKnNruExIl4bU&_nc_zt=24&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=gPzKgoKWPC_ghQzUq4O8Iw&oh=00_AfGhmIdUaPiqXFZkSX9s16E-Ps2_QRNhx-Xxx2aQ9-vnWQ&oe=681E18C1" alt="Image 2" className="photo-img" />
+          <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/484592930_2171456426604643_2264460787469723952_n.jpg?stp=cp6_dst-jpg_s206x206_tt6&_nc_cat=104&ccb=1-7&_nc_sid=fe5ecc&_nc_eui2=AeEhWRgQsWZCx-js5BEG-E2TS_39lAZNE3ZL_f2UBk0TdgclbYVDBi8b--NbaiBFaFo8ebXV8SF0co-lw83rJHFX&_nc_ohc=W_9Yy_96YR0Q7kNvwHF3hud&_nc_oc=AdkxkjS9-3M5hBgwAiDAVX8_lEiRxPclggJ0VGKOwQOxFYay5oFYOPDLT_31hKutfRc&_nc_zt=23&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=ZEnGS7fnaATl_CCZz5vBTw&oh=00_AfGjJ5XRSKNB2J7DKmZ0SeUNG5PkbVWYsqNEv0Qr_LVA4Q&oe=681E1C96" alt="Image 2" className="photo-img" />
           <p className="photo-description">Mark Manio</p>
           <p>Email: manio11@gmail.com</p>
           <p>Birth Date: nov 11, 2003</p>
@@ -41,7 +41,7 @@ const AboutUs = () => {
 
 
         <div className="photo-item">
-          <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-1/453161578_1883624212106031_2026619860567686972_n.jpg?stp=cp0_dst-jpg_s40x40_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGFvraA6N4MGiw5YxY4wyKtTqOriTzxu1JOo6uJPPG7UjHa8BI67UtgJUlz20PJRYzmBmNRlfP6QLOXy-TE3T2G&_nc_ohc=ajWD1eBXJmUQ7kNvwFSp5U5&_nc_oc=AdnjlwQfeUigbwGWNyG678LgypIH6ZVFvDwSFfnR70bCj1-8nT7anz04Tb1NZ4FCoB8&_nc_zt=24&_nc_ht=scontent.fcrk4-1.fna&_nc_gid=NPsKAM53Fl4MGXPemSzrew&oh=00_AfFhmtfYOaCxAAYWUivM_5GJxBs--mngjoYPnBFY9FTa7Q&oe=681E10F2" alt="Image 4" className="photo-img" />
+          <img src="https://scontent.fcrk2-4.fna.fbcdn.net/v/t39.30808-6/484350863_2053312681803849_4644735285606899765_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=1-7&_nc_sid=fe5ecc&_nc_eui2=AeH00KOHKd98u12iqwXfuqqZGrGJlR9ewBQasYmVH17AFH-P8E-jNnAAdrzY4anuPnIWRoR0du0rN509FmXHmls0&_nc_ohc=RvJHA4jF9SAQ7kNvwGoWjOF&_nc_oc=Adn6qDKzY3YkM38aLJNRtz6hUAZR1UmvgWGKk1Yi7bzu7QuibhG5FLI2EG1MVVAy3-s&_nc_zt=23&_nc_ht=scontent.fcrk2-4.fna&_nc_gid=jjFcOd4bSo_asCpd7TinRw&oh=00_AfHAuo6ocl46FzJJky03KaKqCSARJmnPaILUlrCk0KtgXg&oe=681E2523" alt="Image 4" className="photo-img" />
           <p className="photo-description">Vince</p>
           <p>vince33@gmail.com</p>
           <p>Birth Date: jan 3, 2002</p>
